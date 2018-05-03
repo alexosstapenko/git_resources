@@ -11,6 +11,12 @@ https://ru.stackoverflow.com/questions/431520/%D0%9A%D0%B0%D0%BA-%D0%B2%D0%B5%D1
 
 =================================================================
 
+https://habr.com/post/202696/
+
+Правильные способы исключения файлов в Git
+
+==========================================================================
+
 [admin@host-105 git]$ git init
 Initialized empty Git repository in /home/admin/git/git/.git/
 [admin@host-105 git]$ git status
